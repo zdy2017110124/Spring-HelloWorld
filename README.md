@@ -6,17 +6,17 @@
 
 1.首先点击Create New Project
 
-![creat new project](Spring-HelloWorld/pics/creat new project.PNG)
+![creat new project](https://github.com/zdy2017110124/Spring-HelloWorld/blob/master/pics/creat%20new%20project.PNG)
 
 2.勾选Spring，然后点击next
 
-![choose spring](Spring-HelloWorld/pics/choose spring.PNG)
+![choose spring](https://github.com/zdy2017110124/Spring-HelloWorld/blob/master/pics/choose%20spring.PNG)
 
 3.设置项目路径以及名字
 
 4.IDEA会自动下载Spring所需的jar包
 
-![jar](Spring-HelloWorld/pics/jar.PNG)
+![jar](https://github.com/zdy2017110124/Spring-HelloWorld/blob/master/pics/jar.PNG)
 
 5.创建HelloWorld.class
 
@@ -63,7 +63,7 @@ public static void main(String[] args) {
 
 8.运行
 
-![result](Spring-HelloWorld/pics/result.PNG)
+![result](https://github.com/zdy2017110124/Spring-HelloWorld/blob/master/pics/result.PNG)
 
 网上说红色的字是Spring输出的日志
 
