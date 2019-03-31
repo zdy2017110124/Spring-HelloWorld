@@ -2,7 +2,7 @@
 
 1.新建一个新程序
 
-![new project](pics/new project.png)
+![new project](https://github.com/zdy2017110124/Spring-HelloWorld/blob/master/pics/new%20project.png)
 
 2.填好group和artifact
 
